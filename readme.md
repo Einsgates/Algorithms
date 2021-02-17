@@ -24,7 +24,7 @@ Textbook: Robert Sedgewick and Kevin Wayne, Algorithms 4th Edition, Posts &Telec
 emphasizes impacts of algorithms on applications to science, engineering, and industry. There are comprehensive
 resources, available for free at http://algs4.cs.princeton.edu/home/. 
 
-![image-20210217131020018](C:\Users\Asus\AppData\Roaming\Typora\typora-user-images\image-20210217131020018.png)
+![](C:\Users\Asus\Desktop\屏幕截图 2021-02-17 131446.png)
 
 The book, Introduction to Algorithms. 2nd
 Edition, Cambridge, MA: MIT Press, 2001. ISBN: 9780262032933, by Thomas H. Cormen, Charles E. Leiserson,
